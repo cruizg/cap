@@ -1,0 +1,8 @@
+{
+  "name": "androidapp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
